@@ -269,6 +269,7 @@ biased	-2
 big	1
 bitch	-5
 bitches	-5
+bitcoin 2
 bitter	-2
 bitterly	-2
 bizarre	-2
@@ -278,6 +279,7 @@ blamed	-2
 blames	-2
 blaming	-2
 bless	2
+blessed 3
 blesses	2
 blessing	3
 blind	-1
@@ -286,6 +288,7 @@ blissful	3
 blithe	2
 block	-1
 blockbuster	3
+blockchain  3
 blocked	-1
 blocking	-1
 blocks	-1
@@ -414,7 +417,9 @@ cleared	1
 clearly	1
 clears	1
 clever	2
+cloud 1
 clouded	-1
+cloudsecurity 2
 clueless	-2
 cock	-5
 cocksucker	-5
@@ -539,6 +544,8 @@ crushes	-1
 crushing	-1
 cry	-1
 crying	-2
+crypto  2
+cryptocurrency  2
 cunt	-5
 curious	1
 curse	-1
@@ -577,6 +584,8 @@ deceiving	-3
 deception	-3
 decisive	1
 dedicated	2
+deep  3
+deeplearning  1
 defeated	-2
 defect	-3
 defects	-3
@@ -1075,6 +1084,8 @@ genial	3
 ghost	-1
 giddy	-2
 gift	2
+give  3
+giveaway  2
 glad	3
 glamorous	3
 glamourous	3
@@ -1085,6 +1096,7 @@ gloomy	-2
 glorious	2
 glory	2
 glum	-2
+goals 2
 god	1
 goddamn	-3
 godsend	4
@@ -1298,6 +1310,7 @@ infected	-2
 inferior	-2
 inflamed	-2
 influential	2
+influencer  1
 infringement	-2
 infuriate	-2
 infuriated	-2
@@ -1516,6 +1529,7 @@ mess	-2
 messed	-2
 messing up	-2
 methodical	2
+metoo 1
 mindless	-2
 miracle	4
 mirth	3
@@ -1632,6 +1646,7 @@ offending	-2
 offends	-2
 offline	-1
 oks	2
+olympics  4
 ominous	3
 once-in-a-lifetime	3
 opportunities	2
@@ -1968,6 +1983,7 @@ scare	-2
 scared	-2
 scary	-2
 sceptical	-2
+science 2
 scold	-2
 scoop	3
 scorn	-2
@@ -2208,6 +2224,7 @@ swindling	-3
 sympathetic	2
 sympathy	2
 tard	-2
+tbt 2
 tears	-2
 tender	2
 tense	-2
@@ -2233,6 +2250,7 @@ threatening	-2
 threatens	-2
 threats	-2
 thrilled	5
+thursdaythoughts  1
 thwart	-2
 thwarted	-2
 thwarting	-2
@@ -2263,6 +2281,8 @@ trap	-1
 trapped	-2
 trauma	-3
 traumatic	-3
+travel  2
+traveltuesday 2
 travesty	-2
 treason	-3
 treasonous	-3
@@ -2354,6 +2374,7 @@ validate	1
 validated	1
 validates	1
 validating	1
+vegan 1
 verdict	-1
 verdicts	-1
 vested	1
@@ -2409,6 +2430,7 @@ waste	-1
 wasted	-2
 wasting	-2
 wavering	-1
+wcw 3
 weak	-2
 weakness	-2
 wealth	3
@@ -2437,6 +2459,9 @@ wishing	1
 withdrawal	-3
 woebegone	-2
 woeful	-3
+woman 1
+women 2
+womenintech 3
 won	3
 wonderful	4
 woo	3
