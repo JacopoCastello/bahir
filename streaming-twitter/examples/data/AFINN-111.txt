@@ -401,6 +401,7 @@ cherishes	2
 cherishing	2
 chic	2
 childish	-2
+chile 1
 chilling	-1
 choke	-2
 choked	-2
@@ -661,6 +662,7 @@ determined	2
 devastate	-2
 devastated	-2
 devastating	-2
+developer 2
 devoted	3
 diamond	1
 dick	-4
@@ -2076,6 +2078,8 @@ snub	-2
 snubbed	-2
 snubbing	-2
 snubs	-2
+software  1
+softwaredeveloper 1
 sobering	1
 solemn	-1
 solid	2
